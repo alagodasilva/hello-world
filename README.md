@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Just testing this for C40 project
+
+Nice tutorial here: https://guides.github.com/activities/hello-world/
